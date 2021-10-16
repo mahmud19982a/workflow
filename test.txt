@@ -2,3 +2,6 @@ this is a test file for cloning github repository to a local machine.
 the purpose is to check how the commit, push, pull request, ssh works!!!
 
 but in 2021, 'git push origin main' command doesn't seems to be work.... it requires key bashed authentication....
+
+--------------------------------------------------------------
+this file was changed from local pc. 
